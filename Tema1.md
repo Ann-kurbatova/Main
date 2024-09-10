@@ -28,61 +28,61 @@
 
 ## 1. Установка
 
-![Установка]()
+![Установка](https://github.com/Ann-kurbatova/Main/blob/Tema1/pic/git1.jpg)
 
 ## 2. Настройка
 
-![Настройка]()
+![Настройка](https://github.com/Ann-kurbatova/Main/blob/Tema1/pic/git2.jpg)
 
 ## 3. Создание нового репозитория
 
-![Создание нового репозитория]()
+![Создание нового репозитория](https://github.com/Ann-kurbatova/Main/blob/Tema1/pic/git3.jpg)
 
 ## 4. Подготовка файлов
 
-![Подготовка файлов]()
+![Подготовка файлов](https://github.com/Ann-kurbatova/Main/blob/Tema1/pic/git4.jpg)
 
 ## 5. Фиксация изменений
 
-![Фиксация изменений]()
+![Фиксация изменений](https://github.com/Ann-kurbatova/Main/blob/Tema1/pic/git5.jpg)
 
 ## 6. Подключение к удаленному репозиторию
 
-![Подключение к удаленному репозиторию]()
+![Подключение к удаленному репозиторию](https://github.com/Ann-kurbatova/Main/blob/Tema1/pic/git6.jpg)
 
 ## 7. Ветвление
 
-![Ветвление]()
+![Ветвление](https://github.com/Ann-kurbatova/Main/blob/Tema1/pic/git7.jpg)
 
 ## 8. Особенности применения «Фетч»
 
-![Особенности применения «Фетч»]()
+![Особенности применения «Фетч»](https://github.com/Ann-kurbatova/Main/blob/Tema1/pic/git8.jpg)
 
 ## 9. Удаление файлов, веток, локальных и удалённых репозиториев
 
-![Удаление файлов, веток, локальных и удалённых репозиториев]()
+![Удаление файлов, веток, локальных и удалённых репозиториев](https://github.com/Ann-kurbatova/Main/blob/Tema1/pic/git9.jpg)
 
 ## 10. Отслеживание изменений в коммитах
 
-![Отслеживание изменений в коммитах]()
+![Отслеживание изменений в коммитах](https://github.com/Ann-kurbatova/Main/blob/Tema1/pic/git10.jpg)
 
 ## 11. Возвращение файла к предыдущему (определенному) состоянию
 
-![Возвращение файла к предыдущему (определенному) состоянию]()
+![Возвращение файла к предыдущему (определенному) состоянию](https://github.com/Ann-kurbatova/Main/blob/Tema1/pic/git11.jpg)
 
 ## 12. Возвращение к предыдущему коммиту
 
-![Возвращение к предыдущему коммиту]()
+![Возвращение к предыдущему коммиту](https://github.com/Ann-kurbatova/Main/blob/Tema1/pic/git12.jpg)
 
 ## 13. Исправление коммита
 
-![Исправление коммита]()
-![Исправление коммита1]()
+![Исправление коммита](https://github.com/Ann-kurbatova/Main/blob/Tema1/pic/git13.jpg)
+![Исправление коммита1](https://github.com/Ann-kurbatova/Main/blob/Tema1/pic/git13.1.jpg)
 
 ## 14. Разрешение конфликтов при слиянии
 
-![Разрешение конфликтов при слиянии]()
+![Разрешение конфликтов при слиянии](https://github.com/Ann-kurbatova/Main/blob/Tema1/pic/git14.jpg)
 
 ## 15. Настройка .gitignore
 
-![Настройка .gitignore]()
+![Настройка .gitignore](https://github.com/Ann-kurbatova/Main/blob/Tema1/pic/git15.jpg)
