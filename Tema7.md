@@ -1,6 +1,6 @@
 # Тема 7. Работа с файлами (ввод, вывод)
-Отчёт по теме выполнил:
-  - Плашкин Денис Владимирович 
+Отчёт по теме выполнила:
+  - Курбатова Анна Сергеевна 
   - ИВТ-22-2
 
 | Задание | Лаб_раб | Сам_раб |
@@ -32,7 +32,7 @@ Ten toes in when we standin' on business.
 I'm a big stepper, underground methods
 Top-notch hoes get the most, not the lesser."
 ```
-![Меню](https://github.com/Asappich/main/blob/Tema7/pic/z1.jpg)
+![Меню](https://github.com/Ann-kurbatova/main/blob/Tema7/pic/1.jpg)
 
 ### Вывод: 
 Этот код принимает номер кабинета от пользователя и проверяет его наличие в словаре dictionary. Если ключ существует и у него есть значение 'access': True, то программа выводит соответствующий ключ и доступ. В противном случае, она использует значение по ключу 'None' и выводит его.
@@ -45,7 +45,7 @@ f = open('input.txt', 'r')
 print(f.readline())
 f.close()
 ```
-![Меню](https://github.com/Asappich/main/blob/Tema7/pic/z2.jpg)
+![Меню](https://github.com/Ann-kurbatova/main/blob/Tema7/pic/2.jpg)
 
 ### Вывод: 
 Этот код принимает номер кабинета от пользователя и проверяет его наличие в словаре dictionary. Если ключ существует и у него есть значение 'access': True, то программа выводит соответствующий ключ и доступ. В противном случае, она использует значение по ключу 'None' и выводит его.
@@ -58,7 +58,7 @@ f = open('input.txt', 'r')
 print(f.readlines())
 f.close()
 ```
-![Меню](https://github.com/Asappich/main/blob/Tema7/pic/z3.jpg)
+![Меню](https://github.com/Ann-kurbatova/main/blob/Tema7/pic/3.jpg)
 
 ### Вывод: 
 Этот код принимает номер кабинета от пользователя и проверяет его наличие в словаре dictionary. Если ключ существует и у него есть значение 'access': True, то программа выводит соответствующий ключ и доступ. В противном случае, она использует значение по ключу 'None' и выводит его.
@@ -70,7 +70,7 @@ f.close()
 with open ('input.txt') as f:
     print(f.readlines())
 ```
-![Меню](https://github.com/Asappich/main/blob/Tema7/pic/z4.jpg)
+![Меню](https://github.com/Ann-kurbatova/main/blob/Tema7/pic/4.jpg)
 
 ### Вывод: 
 Этот код принимает номер кабинета от пользователя и проверяет его наличие в словаре dictionary. Если ключ существует и у него есть значение 'access': True, то программа выводит соответствующий ключ и доступ. В противном случае, она использует значение по ключу 'None' и выводит его.
@@ -83,7 +83,7 @@ with open ('input.txt') as f:
     for line in f:
         print(line)
 ```
-![Меню](https://github.com/Asappich/main/blob/Tema7/pic/z5.jpg)
+![Меню](https://github.com/Ann-kurbatova/main/blob/Tema7/pic/5.jpg)
 
 ### Вывод: 
 Этот код принимает номер кабинета от пользователя и проверяет его наличие в словаре dictionary. Если ключ существует и у него есть значение 'access': True, то программа выводит соответствующий ключ и доступ. В противном случае, она использует значение по ключу 'None' и выводит его.
@@ -99,7 +99,7 @@ with open('input.txt', 'r') as f:
     result = f.readlines()
     print(result)
 ```
-![Меню](https://github.com/Asappich/main/blob/Tema7/pic/z6.jpg)
+![Меню](https://github.com/Ann-kurbatova/main/blob/Tema7/pic/6.jpg)
 
 
 ### Вывод: 
@@ -115,7 +115,7 @@ with open('input.txt', 'w') as f:
         f.write('\nCycle run ' + line)
     print('Done!')
 ```
-![Меню](https://github.com/Asappich/main/blob/Tema7/pic/z7.jpg)
+![Меню](https://github.com/Ann-kurbatova/main/blob/Tema7/pic/7.jpg)
 
 ### Вывод: 
 Этот код принимает номер кабинета от пользователя и проверяет его наличие в словаре dictionary. Если ключ существует и у него есть значение 'access': True, то программа выводит соответствующий ключ и доступ. В противном случае, она использует значение по ключу 'None' и выводит его.
@@ -136,7 +136,7 @@ def print_docs(directory):
 
 print_docs('C:/Users/sokol/Pictures/Животные')
 ```
-![Меню](https://github.com/Asappich/main/blob/Tema7/pic/z8.jpg)
+![Меню](https://github.com/Ann-kurbatova/main/blob/Tema7/pic/8.jpg)
 
 ### Вывод: 
 Этот код принимает номер кабинета от пользователя и проверяет его наличие в словаре dictionary. Если ключ существует и у него есть значение 'access': True, то программа выводит соответствующий ключ и доступ. В противном случае, она использует значение по ключу 'None' и выводит его.
@@ -172,7 +172,7 @@ def longestwords(file):
 
 print(longestwords('input.txt'))
 ```
-![Меню](https://github.com/Asappich/main/blob/Tema7/pic/z9.jpg)
+![Меню](https://github.com/Ann-kurbatova/main/blob/Tema7/pic/9.jpg)
 
 ### Вывод: 
 Этот код принимает номер кабинета от пользователя и проверяет его наличие в словаре dictionary. Если ключ существует и у него есть значение 'access': True, то программа выводит соответствующий ключ и доступ. В противном случае, она использует значение по ключу 'None' и выводит его.
@@ -198,7 +198,7 @@ with open('rows_300.csv', 'w', encoding='utf-8', newline='') as f:
 
 time.sleep(0.01)
 ```
-![Меню](https://github.com/Asappich/main/blob/Tema7/pic/z10.jpg)
+![Меню](https://github.com/Ann-kurbatova/main/blob/Tema7/pic/10.jpg)
 #### Файл «rows_300.csv» также есть в папке "коды"
 ### Вывод: 
 Этот код принимает номер кабинета от пользователя и проверяет его наличие в словаре dictionary. Если ключ существует и у него есть значение 'access': True, то программа выводит соответствующий ключ и доступ. В противном случае, она использует значение по ключу 'None' и выводит его.
@@ -218,7 +218,7 @@ print(f'Количество слов: {word_count}')
 print(f'Самое частое слово: "{most_common_word}" (встречается {most_common_count} раз)')
 ```
 ### Результат.
-![image](https://github.com/Asappich/main/blob/Tema7/pic/s1.jpg)
+![image](https://github.com/Ann-kurbatova/main/blob/Tema7/pic/s1.jpg)
 
 Использованный текст:
 Файл input.txt в папке pic.
@@ -250,7 +250,7 @@ while True:
         print("Неверный ввод. Попробуйте снова.")
 ```
 ### Результат.
-![image](https://github.com/Asappich/main/blob/Tema7/pic/s2.jpg)
+![image](https://github.com/Ann-kurbatova/main/blob/Tema7/pic/s2.jpg)
 
 ## Выводы
 Программа позволяет добавлять и показывать записи расходов.
@@ -278,7 +278,7 @@ def text_statistics(filename):
 text_statistics('input.txt')
 ```
 ### Результат.
-![image](https://github.com/Asappich/main/blob/Tema7/pic/s3.jpg)
+![image](https://github.com/Ann-kurbatova/main/blob/Tema7/pic/s3.jpg)
 
 ## Выводы
 Программа выводит количество букв, слов и строк из файла. 
@@ -308,7 +308,7 @@ censored_sentence = censor_text(sentence, banned_words)
 print(censored_sentence)
 ```
 ### Результат.
-![image](https://github.com/Asappich/main/blob/Tema7/pic/s4.jpg)
+![image](https://github.com/Ann-kurbatova/main/blob/Tema7/pic/s4.jpg)
 
 ## Выводы
 Программа заменяет запрещенные слова в вводимом предложении на звездочки.
@@ -325,7 +325,7 @@ def print_lines(filename):
 print_lines('input.txt')
 ```
 ### Результат.
-![image](https://github.com/Asappich/main/blob/Tema7/pic/s5.jpg)
+![image](https://github.com/Ann-kurbatova/main/blob/Tema7/pic/s5.jpg)
 
 ## Выводы
 Программа выводит строки файла с их номерами.
