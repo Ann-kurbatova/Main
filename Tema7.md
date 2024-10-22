@@ -27,10 +27,8 @@
 Составьте текстовый файл и положите его в одну директорию с программой на Python. Текстовый файл должен состоять минимум из двух строк.
 ### Ответ (текст внутри файла):
 ```python
-"Wait a minute, get it how you live it
-Ten toes in when we standin' on business.
-I'm a big stepper, underground methods
-Top-notch hoes get the most, not the lesser."
+""It's not enough just to know, you need to use knowledge. It's not enough to want something, you need to do it." — Leonardo Da Vinci.
+"Failure is just an opportunity to start over, but more wisely." — Henry Ford."
 ```
 ![Меню](https://github.com/Ann-kurbatova/main/blob/Tema7/pic/1.jpg)
 
