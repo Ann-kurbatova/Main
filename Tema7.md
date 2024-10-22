@@ -30,7 +30,7 @@
 ""It's not enough just to know, you need to use knowledge. It's not enough to want something, you need to do it." — Leonardo Da Vinci.
 "Failure is just an opportunity to start over, but more wisely." — Henry Ford."
 ```
-![Меню](https://github.com/Ann-kurbatova/main/blob/Tema7/pic/1.jpg)
+![Меню](https://github.com/Ann-kurbatova/main/blob/Tema7/pic/z1.jpg)
 
 ### Вывод: 
 Этот код принимает номер кабинета от пользователя и проверяет его наличие в словаре dictionary. Если ключ существует и у него есть значение 'access': True, то программа выводит соответствующий ключ и доступ. В противном случае, она использует значение по ключу 'None' и выводит его.
